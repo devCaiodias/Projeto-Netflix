@@ -1,6 +1,7 @@
 # ProjetoNetflix
 
-### GitHub: https://github.com/devCaiodias/ProjetoNetflix
+# Link: <a href="https://projeto-netflix-1xgwh9r3s-protagonistaaas-projects.vercel.app/">Clique aki para ver o projeto </a>
+
 
 ### que tecnologia eu ultilizei 
 
